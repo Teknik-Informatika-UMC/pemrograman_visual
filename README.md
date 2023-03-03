@@ -1,4 +1,4 @@
-# pemrograman_visual
+# Pemrograman Visual
 Materi, Latihan, Praktikum, dan Tugas MK Pemrograman Visual
 
 RPS Pemrograman Visual
